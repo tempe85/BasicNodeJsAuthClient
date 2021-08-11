@@ -1,0 +1,11 @@
+{
+  "name": "basic-oidc-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-openid-connect": "github:auth0/express-openid-connect",
+    "pug": "^3.0.2"
+  }
+}
